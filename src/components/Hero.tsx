@@ -44,14 +44,10 @@ const Hero = () => {
       {/* Content */}
       <div className="relative z-10 container mx-auto px-4 text-center">
         <h1 className="flex items-center justify-center gap-3 text-5xl md:text-7xl font-extrabold mb-6 bg-gradient-to-r from-primary via-secondary to-primary bg-clip-text text-transparent">
-    <img
-      src="hprodd.png"
-      alt="Hanchi Production"
-      className="h-auto w-auto inline-block object-contain invert brightness-125 contrast-125"
-    />
+    <img src="/hprod.jpg" alt="Hanchi Production" className="h-20 w-auto inline-block object-contain" />
     Hanchi Production
     <img
-  src="akk.png"
+  src="/akk.png"
   alt=" Aziz khlaifia"
   className="h-24.5 w-auto inline-block object-contain invert brightness-125 contrast-125"
 />
