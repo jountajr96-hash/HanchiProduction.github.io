@@ -45,16 +45,16 @@ const Hero = () => {
       <div className="relative z-10 container mx-auto px-4 text-center">
         <h1 className="flex items-center justify-center gap-3 text-5xl md:text-7xl font-extrabold mb-6 bg-gradient-to-r from-primary via-secondary to-primary bg-clip-text text-transparent">
     <img
-      src="hprodd.png"
+      src="/hprodd.png"
       alt="Hanchi Production"
       className="h-auto w-auto inline-block object-contain invert brightness-125 contrast-125"
     />
     Hanchi Production
     <img
-  src="akk.png"
-  alt=" Aziz khlaifia"
-  className="h-24.5 w-auto inline-block object-contain invert brightness-125 contrast-125"
-/>
+      src="/akk.png"
+      alt="Aziz khlaifia"
+      className="h-24.5 w-auto inline-block object-contain invert brightness-125 contrast-125"
+    />
 
   </h1>
         <p className="text-xl md:text-2xl text-muted-foreground mb-8 max-w-2xl mx-auto animate-in fade-in slide-in-from-bottom-5 duration-1000 delay-200">
